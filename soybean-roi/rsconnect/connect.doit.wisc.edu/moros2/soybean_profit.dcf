@@ -1,0 +1,12 @@
+name: soybean_profit
+title: soybean_profit
+username: moros2
+account: moros2
+server: connect.doit.wisc.edu
+hostUrl: https://connect.doit.wisc.edu/__api__
+appId: 458
+bundleId: 3970
+url: https://connect.doit.wisc.edu/soybean_prof/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
