@@ -1,0 +1,12 @@
+name: api
+title: api
+username: moros2
+account: moros2
+server: connect.doit.wisc.edu
+hostUrl: https://connect.doit.wisc.edu/__api__
+appId: 491
+bundleId: 3953
+url: https://connect.doit.wisc.edu/soybean_prof_api/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
