@@ -1,7 +1,6 @@
 cff-version: 1.2.0
 message: "Please cite this work when using the software."
 type: software
-
 title: "Soybean Whitemold ROI"
 authors:
   - family-names: "Webster"
@@ -19,18 +18,14 @@ authors:
   - family-names: "Lopez-Nicora"
     given-names: "Horacio D."
     orcid: "https://orcid.org/0000-0002-9672-9589"
-    affiliation: ""
   - family-names: "Byrne"
     given-names: "Adam"
-    orcid: ""
-    affiliation: ""
-  - family-names: "Martin"
-    given-names: "Chilvers"
+  - family-names: "Chilvers"
+    given-names: "Martin"
     orcid: "https://orcid.org/0000-0001-8832-1666"
     affiliation: "Michigan State University"
   - family-names: "Mueller"
     given-names: "Brian"
-    orcid: ""
     affiliation: "UW-Madison"
   - family-names: "Telenko"
     given-names: "Darcy"
@@ -41,7 +36,6 @@ authors:
     orcid: "https://orcid.org/0009-0006-2067-4063"
     affiliation: "UW-Madison"
     
-doi: ""
 repository-code: "https://github.com/UW-Madison-DSI/roi-tools.git"
 url: "https://cropprotectionnetwork.org/white-mold-roi-calculator"
 license: "MIT"
@@ -49,7 +43,8 @@ keywords:
   - open source
   - soybean
   - roi-tool
-
+  - white mold
+  - fungicide
+  - agriculture
 abstract: |
-  The purpose of this calculator is to share results from university white mold fungicide trials conducted in the United States, and allow farmers and others in the agricultural industry to calculate the potential return on investment (ROI) for white mold fungicide applications based on research data included in this calculator.
-The treatment cost, expected benefits, and breakeven probability values shown in the calculator are estimates based on data and not guaranteed values. Also, values are derived from data collected in trials designed to test specific product comparisons, and data are not available for all labeled fungicides for white mold. Data are not comprehensive and represent only the treatments tested in these trials.
+  The purpose of this calculator is to share results from university white mold fungicide trials conducted in the United States, and allow farmers and others in the agricultural industry to calculate the potential return on investment (ROI) for white mold fungicide applications based on research data included in this calculator. The treatment cost, expected benefits, and breakeven probability values shown in the calculator are estimates based on data and not guaranteed values. Also, values are derived from data collected in trials designed to test specific product comparisons, and data are not available for all labeled fungicides for white mold. Data are not comprehensive and represent only the treatments tested in these trials.
