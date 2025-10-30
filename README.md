@@ -1,5 +1,7 @@
 # Fungicide ROI Calculator for White Mold of Soybean
 
+[![DOI](https://zenodo.org/badge/1083947575.svg)](https://doi.org/10.5281/zenodo.17488880)
+
 ## Overview
 
 This Shiny application helps soybean growers evaluate the economic return on investment (ROI) of different fungicide programs for white mold management. The tool calculates expected net benefits, confidence intervals, and breakeven disease severity thresholds based on field conditions and treatment costs.
