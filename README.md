@@ -4,7 +4,16 @@
 
 ## Overview
 
-This Shiny application helps soybean growers evaluate the economic return on investment (ROI) of different fungicide programs for white mold management. The tool calculates expected net benefits, confidence intervals, and breakeven disease severity thresholds based on field conditions and treatment costs.
+This Shiny application and API helps soybean growers evaluate the economic return on investment (ROI) of different fungicide programs for white mold management. The tool calculates expected net benefits, confidence intervals, and breakeven disease severity thresholds based on field conditions and treatment costs.
+
+- **Interactive web calculator**  
+  Use our online tool to explore expected net return under different disease severities and management programs:  
+  👉 [White Mold ROI Calculator](https://cropprotectionnetwork.org/white-mold-roi-calculator)
+
+- **Programmatic access (API)**  
+  Integrate our results into your own workflows and dashboards via the API:  
+  👉 [Soybean Profitability API](https://connect.doit.wisc.edu/soybean_prof_api/)
+
 
 ## Features
 
